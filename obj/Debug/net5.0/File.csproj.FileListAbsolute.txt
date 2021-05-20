@@ -1,0 +1,32 @@
+C:\Users\TOSHIBA\Desktop\File\bin\Debug\net5.0\File.exe
+C:\Users\TOSHIBA\Desktop\File\bin\Debug\net5.0\File.deps.json
+C:\Users\TOSHIBA\Desktop\File\bin\Debug\net5.0\File.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\File\bin\Debug\net5.0\File.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\File\bin\Debug\net5.0\File.dll
+C:\Users\TOSHIBA\Desktop\File\bin\Debug\net5.0\ref\File.dll
+C:\Users\TOSHIBA\Desktop\File\bin\Debug\net5.0\File.pdb
+C:\Users\TOSHIBA\Desktop\File\obj\Debug\net5.0\File.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\File\obj\Debug\net5.0\File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\File\obj\Debug\net5.0\File.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\File\obj\Debug\net5.0\File.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\File\obj\Debug\net5.0\File.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\File\obj\Debug\net5.0\File.dll
+C:\Users\TOSHIBA\Desktop\File\obj\Debug\net5.0\ref\File.dll
+C:\Users\TOSHIBA\Desktop\File\obj\Debug\net5.0\File.pdb
+C:\Users\TOSHIBA\Desktop\File\obj\Debug\net5.0\File.genruntimeconfig.cache
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\bin\Debug\net5.0\File.exe
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\bin\Debug\net5.0\File.deps.json
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\bin\Debug\net5.0\File.runtimeconfig.json
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\bin\Debug\net5.0\File.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\bin\Debug\net5.0\File.dll
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\bin\Debug\net5.0\ref\File.dll
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\bin\Debug\net5.0\File.pdb
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\obj\Debug\net5.0\File.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\obj\Debug\net5.0\File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\obj\Debug\net5.0\File.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\obj\Debug\net5.0\File.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\obj\Debug\net5.0\File.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\obj\Debug\net5.0\File.dll
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\obj\Debug\net5.0\ref\File.dll
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\obj\Debug\net5.0\File.pdb
+C:\Users\Favour .O\Desktop\csharp\StockManagementFile\obj\Debug\net5.0\File.genruntimeconfig.cache
