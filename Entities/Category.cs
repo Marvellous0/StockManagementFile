@@ -5,6 +5,7 @@ namespace Entities
     public class Category : BaseEntity
     {
         public string Name { get; set; }
+        
         public Category(int id, string name)
         {
             Id = id;

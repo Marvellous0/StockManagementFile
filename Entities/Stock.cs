@@ -5,11 +5,17 @@ namespace Entities
     public class Stock : BaseEntity
     {
         public int Category_Id;
+
         public string Name { get; set; }
+
         public double CostPrice { get; set; }
+
         public double SellingPrice { get; set; }
+
         public string SKU { get; set; }
+
         public int Quantity { get; set; }
+        
         public string Variation { get; set; }
 
         public Stock(int id, string name, double costPrice, double sellingPrice, string sKU, int quantity, string variation, int category_Id)
